@@ -1,10 +1,10 @@
 # E-Mail/SMS Spam Classifier
 
-Welcome to the SMS Spam Detection project! This project aims to build a machine learning model to classify SMS messages as either "spam" or "ham" (non-spam). We use a dataset containing labeled SMS messages for training and evaluation.
+Welcome to the **SMS Spam Detection project**! This project aims to build a machine learning model to classify SMS messages as either *"spam"* or *"ham"* (non-spam). We use a dataset containing labeled messages for training and evaluation.
 
 ## Project Overview
 
-E-Mail & SMS spam is a common issue that affects web users. The goal of this project is to develop a robust E-Mail/SMS spam detection model that can automatically classify incoming text messages as spam or not. We leverage natural language processing (NLP) techniques and machine learning algorithms like Naive Bayer's, K Nearest Neighbours, Random Forest, and more to achieve this.
+E-Mail & SMS spam is a common issue that affects web users. The goal of this project is to develop a robust E-Mail/SMS spam detection model that can automatically classify incoming text messages as spam or not. We leverage *natural language processing (NLP) techniques* and machine learning algorithms like *Naive Bayer's, K Nearest Neighbours, Random Forest,* and more to achieve this.
 
 ## Project Structure
 
