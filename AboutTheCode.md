@@ -6,6 +6,7 @@ I'll break down each part for you:
 import numpy as np
 import pandas as pd
 ```
+
 These lines import the necessary libraries: NumPy for numerical operations and Pandas for data manipulation.
 
 ### Reading Data
