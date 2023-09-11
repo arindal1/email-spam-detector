@@ -71,6 +71,7 @@ streamlit run app.py
 This will launch a local web app for SMS spam detection.
 <br>
 <br>
+
 ![Project Preview](./resources/1.png)
 
 ## Tech Stack 🔧
