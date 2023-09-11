@@ -8,7 +8,7 @@ E-Mail & SMS spam is a common issue that affects web users. The goal of this pro
 
 ## Project Structure 🏗️
 
-The project is organized as follows:
+The project is organized as follows: 
 
 - **dataset**: This folder contains the dataset used, named "spam.csv."
 - **resources**: This folder includes images and other files related to the project.
