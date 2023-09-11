@@ -1,7 +1,5 @@
 # E-Mail/SMS Spam Classifier
 
-![Project Preview](./resources/1.png)
-
 Welcome to the SMS Spam Detection project! This project aims to build a machine learning model to classify SMS messages as either "spam" or "ham" (non-spam). We use a dataset containing labeled SMS messages for training and evaluation.
 
 ## Project Overview
@@ -31,13 +29,13 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/sms-spam-detection.git
+git clone https://github.com/arindal1/email-spam-detector.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd sms-spam-detection
+cd email-spam-detector
 ```
 
 3. Create a Python virtual environment (recommended):
@@ -71,6 +69,17 @@ streamlit run app.py
 ```
 
 This will launch a local web app for SMS spam detection.
+<br>
+<br>
+![Project Preview](./resources/1.png)
+
+## Tech Stack
+
+- Python
+- Jupyter Notebook
+- StreamLit
+
+**Note:** I tried to host the model globally using Heroku, but couldn't because of their Billing policies. If you have Heroku, you can create a new app and host the model globally.
 
 ## About the Dataset
 
@@ -80,33 +89,32 @@ The dataset used in this project is available on Kaggle: [SMS Spam Collection Da
 
 For detailed information about the code and its components, please refer to the [AboutTheCode.md](./AboutTheCode.md) file in this repository.
 
-## Roadmap
-
-The project roadmap includes the following tasks:
-
-- Data preprocessing and exploration.
-- Feature engineering using text vectorization techniques.
-- Model selection and training.
-- Model evaluation and performance analysis.
-- Streamlit app development for interactive testing.
-- Documentation and code explanation.
-
 ## Contributions
 
-Contributions to this project are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request. Let's work together to improve this SMS spam detection solution.
+See the [open issues](https://github.com/arindal1/Dogs-Vs-Cats-Classifier/issues) for a list of proposed features (and known issues). <br>
+Contributions to this project are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request. Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## Contact
 
-For inquiries or discussions related to this project, you can reach out to:
+If you have any questions or suggestions related to this project, you can reach out to me at:
 
 - GitHub: [arindal1](https://github.com/arindal1)
-- LinkedIn: [arindalchar](https://www.linkedin.com/in/arindalchar/)
+- LinkedIn: [arindalchar](https://www.linkedin.com/arindalchar/)
 
 ## External Links
 
 - [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+- [StreamLit](https://docs.streamlit.io/)
+- [Heroku](https://dashboard.heroku.com/apps)
 
-Thank you for your interest in the SMS Spam Detection Project!
-```
+---
 
-Feel free to customize the content, links, and images to match your project's specifics. This `README.md` file provides a comprehensive overview of your project, its structure, and how to get started with it.
+**Note:** This is a personal project created for educational and demonstrative purposes. I made this project just for fun and learn more about Machine Learning in the process, and also record my progress in this field. Feel free to customize the content, links, and images to match your project's specifics.
+
+### Happy learning and predicting! 😁
