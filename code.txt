@@ -264,4 +264,3 @@ print("Precision",precision_score(y_test,y_pred))
 import pickle
 pickle.dump(tfidf,open('vectorizer.pkl','wb'))
 pickle.dump(mnb,open('model.pkl','wb'))
-
