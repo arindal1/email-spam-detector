@@ -2,11 +2,11 @@
 
 Welcome to the **SMS Spam Detection project**! This project aims to build a machine learning model to classify SMS messages as either *"spam"* or *"ham"* (non-spam). We use a dataset containing labeled messages for training and evaluation.
 
-## Project Overview
+## Project Overview 🔍
 
 E-Mail & SMS spam is a common issue that affects web users. The goal of this project is to develop a robust E-Mail/SMS spam detection model that can automatically classify incoming text messages as spam or not. We leverage *natural language processing (NLP) techniques* and machine learning algorithms like *Naive Bayes, K Nearest Neighbours, Random Forest,* and more to achieve this.
 
-## Project Structure
+## Project Structure 🏗️
 
 The project is organized as follows:
 
@@ -22,7 +22,7 @@ The project is organized as follows:
 - **nltk.txt**: Text file containing NLTK library imports, including stopwords and punkt.
 - **spam-detection.ipynb**: Jupyter Notebook source file containing the code for data preprocessing, model training, and evaluation.
 
-## Getting Started
+## Getting Started 🛫
 
 To get started with this project, follow these steps:
 
@@ -73,7 +73,7 @@ This will launch a local web app for SMS spam detection.
 <br>
 ![Project Preview](./resources/1.png)
 
-## Tech Stack
+## Tech Stack 🔧
 
 - Python
 - Jupyter Notebook
@@ -81,15 +81,15 @@ This will launch a local web app for SMS spam detection.
 
 **Note:** I tried to host the model globally using Heroku, but couldn't because of their Billing policies. If you have Heroku, you can create a new app and host the model globally.
 
-## About the Dataset
+## About the Dataset 💾
 
 The dataset used in this project is available on Kaggle: [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset). It contains SMS messages labeled as "spam" or "ham." You can download the dataset from the provided link and place it in the "dataset" folder.
 
-## About the Code
+## About the Code 💻
 
 For detailed information about the code and its components, please refer to the [AboutTheCode.md](./AboutTheCode.md) file in this repository.
 
-## Contributions
+## Contributions 🫱🏼‍🫲🏽
 
 See the [open issues](https://github.com/arindal1/Dogs-Vs-Cats-Classifier/issues) for a list of proposed features (and known issues). <br>
 Contributions to this project are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request. Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -100,14 +100,14 @@ Contributions to this project are welcome! If you have any ideas, bug reports, o
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## Contact
+## Contact 📱
 
 If you have any questions or suggestions related to this project, you can reach out to me at:
 
 - GitHub: [arindal1](https://github.com/arindal1)
 - LinkedIn: [arindalchar](https://www.linkedin.com/arindalchar/)
 
-## External Links
+## External Links 🔗
 
 - [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 - [StreamLit](https://docs.streamlit.io/)
