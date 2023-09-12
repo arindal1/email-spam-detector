@@ -1,6 +1,6 @@
 # E-Mail/SMS Spam Classifier
 
-Welcome to the **SMS Spam Detection project**! This project aims to build a machine learning model to classify SMS messages as either *"spam"* or *"ham"* (non-spam). We use a dataset containing labeled messages for training and evaluation.
+Welcome to the **Mail/SMS Spam Detection project**! This project aims to build a machine learning model to classify Mail and SMS messages as either *"spam"* or *"ham"* (non-spam). We use a dataset containing labeled messages for training and evaluation.
 
 ## Project Overview 🔍
 
