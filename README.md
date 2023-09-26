@@ -92,7 +92,7 @@ For detailed information about the code and its components, please refer to the 
 
 ## Contributions 🫱🏼‍🫲🏽
 
-See the [open issues](https://github.com/arindal1/Dogs-Vs-Cats-Classifier/issues) for a list of proposed features (and known issues). <br>
+See the [open issues](https://github.com/arindal1/email-spam-detector/issues) for a list of proposed features (and known issues). <br>
 Contributions to this project are welcome! If you have any ideas, bug reports, or feature requests, please open an issue or submit a pull request. Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
